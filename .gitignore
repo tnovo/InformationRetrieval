@@ -1,0 +1,6 @@
+/target/
+/.idea/
+*.iml
+*/*.iml
+/europarl/target/
+/engine/target/
